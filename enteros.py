@@ -8,3 +8,4 @@ c = input()
 d = (-b * math.sqrt(pow(b,2) -4*a*b)/2*a)
 
 print(d)
+
